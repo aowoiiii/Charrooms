@@ -1,0 +1,4 @@
+#目录过滤
+/.idea/ 
+/node_modules/
+/package-lock.json
